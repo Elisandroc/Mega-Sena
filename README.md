@@ -18,3 +18,5 @@ CS	            | D10
 Botão
 Pino 1          | GND
 Pino 2          | Pino 2</pre>
+
+[youtube](https://www.youtube.com/@ETecLab) - ETecLab
